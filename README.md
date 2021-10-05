@@ -1,8 +1,8 @@
 # KikFriendz Site Tools
-Public development repository for https://kikfriendz.com
+Public development profile for https://kikfriendz.com
 
 ## Purpose
-This repository will contain code snippets of how we accomplished certain tasks on our site.  
+This profile will contain code snippets of how we accomplished certain tasks on our site.  
 We may also provide our own Kik moderation bot in the future with an open sourced codebase.
 
 ## Contact
