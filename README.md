@@ -1,4 +1,12 @@
-### Hi there 👋
+# KikFriendz Site Tools
+Public development repository for https://kikfriendz.com
+
+## Purpose
+This repository will contain code snippets of how we accomplished certain tasks on our site.  
+We may also provide our own Kik moderation bot in the future with an open sourced codebase.
+
+## Contact
+📫 How to reach us: https://kikfriendz.com/contact
 
 <!--
 **KikFriendz/KikFriendz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
