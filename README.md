@@ -1,8 +1,10 @@
 # KikFriendz Site Tools
-Public development profile for [KikFriendz](https://kikfriendz.com)
+KikFriendz is a service that assists users of the famous Kik messenger app to find and connect with each other.  
+In short, it lets people find usernames and post their own kik usernames on our site.  
+Visit [KikFriendz](https://kikfriendz.com) to see it live.
 
 ## Purpose
-This profile will contain code snippets of how we accomplished certain tasks on our site.  
+This profile will contain snippets of how we accomplished certain tasks on our site.  
 We may also provide our own Kik moderation bot in the future with an open sourced codebase.
 
 ## Contact
